@@ -1,0 +1,36 @@
+*{background-image: url(imagens/imagemcomeco);}
+
+
+#cabecalho{background-color: #303030;
+    height: 250px;
+    width: 100%;
+    margin-top: -10px;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    position: fixed;
+    margin-left: -10px;
+
+}
+h1{
+    color:#ffff;
+    width: 1024px;
+    height: 20px;
+    margin-left: 75px;
+    text-align: left;
+    margin-top: 100px;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+
+}
+
+p{
+    color:#ffff;
+margin-left: 75px;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+margin-top: 50px;
+
+
+
+}
